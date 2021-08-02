@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer - 🔭 Working on multiple frontend and backend project using Spring Boot, Angular, React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🌱 Learning whatever increase my knowledge
 <br>
 
 ## Connect with me
