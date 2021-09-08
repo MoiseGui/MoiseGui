@@ -1,7 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer - 🔭 Working on multiple frontend and backend project using Spring Boot, Angular, React and Nodejs
 - 🌱 Learning whatever increases my knowledge
-<br>
 
 ## Connect with me
 
@@ -9,7 +8,6 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gui_moise)
 
-<br>
 <br>
 
 ## Expertise
