@@ -32,7 +32,7 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
   </tr>
  <tr>
     <td align="center" colspan="2">
-       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseGui&layout=compact&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&langs_count=10">
+       <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseGui&layout=compact&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&langs_count=10">
     </td>
  </tr>
 </table>
