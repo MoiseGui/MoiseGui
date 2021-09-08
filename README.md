@@ -22,3 +22,19 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
 
 <br>
 <br>
+
+<table>
+ <tr>
+    <td align="center" colspan="2">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseGui&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+    </td>
+ </tr>
+ <tr>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=MoiseGui&count_private=true&theme=radical&show_icons=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoiseGui&theme=radical">
+    </td>
+  </tr>
+</table>
