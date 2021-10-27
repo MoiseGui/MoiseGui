@@ -39,7 +39,7 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
     </td>
   </tr>
  <tr>
-    <td align="center">
+    <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseGui&layout=compact&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&langs_count=10">
     </td>
    <td>
