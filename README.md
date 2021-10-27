@@ -39,15 +39,17 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
     </td>
   </tr>
  <tr>
-    <td>
+    <td align="center" colspan="2">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiseGui&layout=compact&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&langs_count=10">
     </td>
-   <td>
-    <a href="https://app.daily.dev/DailyDevTips">
+ </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://app.daily.dev/DailyDevTips">
       <img src="https://github.com/MoiseGui/MoiseGui/blob/main/devcard.svg" width="400" alt="Moise Gui's Dev Card"/>
      </a>
-   </td>
- </tr> 
+    </td>
+  </tr>
 </table>
 
 ![](https://komarev.com/ghpvc/?username=MoiseGui&color=1a1b27)
