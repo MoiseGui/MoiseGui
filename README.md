@@ -45,7 +45,7 @@ I am a fullstack software engineer - 🔭 Working on multiple frontend and backe
  </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://app.daily.dev/DailyDevTips">
+      <a href="https://app.daily.dev/MoiseGui">
       <img src="https://github.com/MoiseGui/MoiseGui/blob/main/devcard.svg" width="400" alt="Moise Gui's Dev Card"/>
      </a>
     </td>
