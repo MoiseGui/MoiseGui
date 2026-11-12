@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 *   🖥️  Learm more about me at [https://www.linkedin.com/in/moise-gui](https://www.linkedin.com/in/moise-gui)
-*   ✉️  You can contact me at [contact@moisegui.com](mailto:k.moise.gui@gmail.com)
+*   ✉️  You can contact me at [k.moise.gui@gmail.com](mailto:k.moise.gui@gmail.com)
 *   🧠  I'm learning Everything 😅
 
 ### Skills
