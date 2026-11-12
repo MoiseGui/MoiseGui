@@ -4,8 +4,8 @@ Hi 👋 My name is Moïse Gui
 Software Engineer
 -----------------
 
-*   🖥️  See my portfolio at [moisegui.com](http://moisegui.com)
-*   ✉️  You can contact me at [contact@moisegui.com](mailto:contact@moisegui.com)
+*   🖥️  Learm more about me at [moisegui.com](https://www.linkedin.com/in/moise-gui)
+*   ✉️  You can contact me at [contact@moisegui.com](mailto:k.moise.gui@gmail.com)
 *   🧠  I'm learning Everything 😅
 
 ### Skills
